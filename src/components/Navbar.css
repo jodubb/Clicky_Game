@@ -1,0 +1,20 @@
+.navbar {
+    background-color: blueviolet
+}
+
+.todo {
+    text-align: center;
+    color: white;
+}
+
+.title {
+    color:white;
+    font-size: 25px;
+
+}
+
+.score {
+    font-size: 25px;
+    color: white;
+    
+}

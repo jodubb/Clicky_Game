@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url(../images/90scartoons2.jpg);
+    background-repeat: no-repeat;
+}
+
+.header {
+    color: purple;
+    font-size: 70px;
+    text-shadow: 3px 2px black;
+}
+
+.lead  {
+    font-size: 30px;
+    text-shadow: 1px 1px purple;
+    margin: 30px;
+    background: white;
+}

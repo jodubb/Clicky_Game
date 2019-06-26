@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Clicky_Game/static/css/main.b35e3f08.chunk.css",
+    "main.js": "/Clicky_Game/static/js/main.0048807e.chunk.js",
+    "main.js.map": "/Clicky_Game/static/js/main.0048807e.chunk.js.map",
+    "runtime~main.js": "/Clicky_Game/static/js/runtime~main.1f82a145.js",
+    "runtime~main.js.map": "/Clicky_Game/static/js/runtime~main.1f82a145.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/Clicky_Game/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/Clicky_Game/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/Clicky_Game/index.html",
+    "precache-manifest.89ba612131a0bdf9612d02bfcef9b62b.js": "/Clicky_Game/precache-manifest.89ba612131a0bdf9612d02bfcef9b62b.js",
+    "service-worker.js": "/Clicky_Game/service-worker.js",
+    "static/css/main.b35e3f08.chunk.css.map": "/Clicky_Game/static/css/main.b35e3f08.chunk.css.map",
+    "static/media/Jumbotron.css": "/Clicky_Game/static/media/90scartoons2.fb9c85aa.jpg",
+    "static/media/Simpsons.jpg": "/Clicky_Game/static/media/Simpsons.5f3c35d7.jpg",
+    "static/media/beavus.jpg": "/Clicky_Game/static/media/beavus.052a3be1.jpg",
+    "static/media/couragedog.jpg": "/Clicky_Game/static/media/couragedog.6f696c5f.jpg",
+    "static/media/dexter.jpg": "/Clicky_Game/static/media/dexter.d996c2c6.jpg",
+    "static/media/doug.jpg": "/Clicky_Game/static/media/doug.fc06ccb0.jpg",
+    "static/media/edds2.jpg": "/Clicky_Game/static/media/edds2.70202f84.jpg",
+    "static/media/flinstones.jpg": "/Clicky_Game/static/media/flinstones.2b239d4c.jpg",
+    "static/media/hey_arnold.jpg": "/Clicky_Game/static/media/hey_arnold.aa19f2c2.jpg",
+    "static/media/jetsons.jpg": "/Clicky_Game/static/media/jetsons.bb6684ed.jpg",
+    "static/media/recess2.jpg": "/Clicky_Game/static/media/recess2.9e16d47f.jpg",
+    "static/media/rugrats.jpg": "/Clicky_Game/static/media/rugrats.978d332c.jpg"
+  }
+}
